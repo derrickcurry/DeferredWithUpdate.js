@@ -1,0 +1,22 @@
+{
+  "name": "DeferredWithUpdate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/derrickcurry/DeferredWithUpdate.js",
+  "authors": [
+    "Ben Nadel",
+    "https://github.com/bennadel"
+  ],
+  "description": "Deferred Promise with Update",
+  "main": "lib/deferred-with-update.js",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
